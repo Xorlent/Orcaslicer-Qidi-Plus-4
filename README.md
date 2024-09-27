@@ -4,7 +4,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 > USE AT YOUR OWN RISK
 
 ## Installation
-1. Close Orcaslicer
+1. Close OrcaSlicer
 2. Download and unzip the file in this repository
    - In Windows, be sure to "Unblock" the ZIP before extracting (Right-Click->Properties)
 3. Open the /resources/profiles folder
