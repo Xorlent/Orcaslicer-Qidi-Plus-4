@@ -1,5 +1,5 @@
 # OrcaSlicer Qidi X-Plus 4 Profiles
-OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles were adapted from the ones provided in the latest version of [QIDIStudio](https://github.com/QIDITECH/QIDIStudio), so should work fine.  
+OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles were adapted from the ones provided in the latest version of [QIDIStudio](https://github.com/QIDITECH/QIDIStudio), so should work fine.  These profiles have been tested on firmware version 1.4.0.
 > [!CAUTION]
 > USE AT YOUR OWN RISK
 
@@ -11,7 +11,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
    - In MacOS, you need to "Show Package Contents" on the OrcaSlicer app
 4. Paste the contents of this repo into the /profiles folder
    - No files should or will be overwritten in this process
-   - The result should be:
+   - The final result should be:
      - A file called, "Qidi X 4 Series.json" in the /profiles folder
      - A subfolder called, "Qidi X 4 Series" in the /profiles folder
 6. Launch OrcaSlicer and open the Add Printer dialog
