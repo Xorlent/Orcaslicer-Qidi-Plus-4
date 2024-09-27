@@ -5,10 +5,16 @@ OrcaSlicer printer profiles for the Qidi Plus 4 FDM printer.  Profiles were adap
 
 ## Installation
 1. Close Orcaslicer
-2. Open the /resources/profiles folder
+2. Download and unzip the file in this repository
+   - In Windows, be sure to "Unblock" the ZIP before extracting (Right-Click->Properties)
+3. Open the /resources/profiles folder
    - In MacOS, you need to "Show Package Contents" on the OrcaSlicer app
-4. Paste the contents of this repo into the folder
-5. Launch OrcaSlicer and open the Add Printer dialog
+4. Paste the contents of this repo into the /profiles folder
+   - No files should or will be overwritten in this process
+   - The result should be:
+     - A file called, "Qidi X 4 Series.json" in the /profiles folder
+     - A subfolder called, "Qidi X 4 Series" in the /profiles folder
+6. Launch OrcaSlicer and open the Add Printer dialog
    - Search for "X-Plus 4" and select the appropriate nozzle sizes
    - Generic filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
 
