@@ -16,7 +16,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
      - A subfolder called, "Qidi X 4 Series" in the /profiles folder
 6. Launch OrcaSlicer and open the Add Printer dialog
    - Search for "X-Plus 4" and select the appropriate nozzle sizes
-7. Connect to your printer using the Wi-Fi icon next to the printer name and entering the IP address of your device
+7. Connect to your printer using the Wi-Fi icon next to the printer name and enter the IP address of your device
 
 ## Notes
 - Generic filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
