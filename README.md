@@ -7,7 +7,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 1. Close OrcaSlicer
 2. Download and unzip the desired file from this repository
    - "Qidi X 4 Series Original.zip" gives you the stock Qidi profiles with only bug fixes applied
-   - "Qidi X 4 Series Modified G-Code.zip" also gives you improved printer profiles
+   - "Qidi X 4 Series Modified G-Code.zip" also gives you [improved printer profiles](#print_profiles)
    > TIP: In Windows, be sure to "Unblock" the ZIP before extracting (Right-Click->Properties)
 3. Open the /resources/profiles folder
    - In MacOS, you need to "Show Package Contents" on the OrcaSlicer app
@@ -21,9 +21,10 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 7. Connect to your printer using the Wi-Fi icon next to the printer name and enter the IP address of your device
 
 ## General Notes and Observations
-- Generic Qidi filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
+### Generic Qidi filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
   - In my testing of their generic PETG profile, I recommend slowing all print speeds by 35-40% and increasing the flow ratio to .96 as a starting point
-- What do you mean by _improved printer profiles_ in "Qidi X 4 Series Modified G-Code.zip"?
+<a id="print_profiles"></a>
+### What do you mean by _improved printer profiles_ in "Qidi X 4 Series Modified G-Code.zip"?
   - Besides the G-Code bug fixes, the G-Code has been updated to:
     - Give the build plate sufficient time to heat soak
     - Turn on the case light when the nozzle begins heating to start print
