@@ -29,9 +29,11 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 <a id="print_profiles"></a>
 ### What do you mean by _improved printer profiles_ in "Qidi X 4 Series Modified G-Code.zip"?
   - Besides minor G-Code bug fixes included in the Original version, the G-Code has been updated to:
-    - Give the build plate sufficient time to heat soak
+    - Give the build plate sufficient time to heat soak before calibration and printing
+      - Currently set to 500000 ms (8 minutes and 20 seconds)
+      - Case light turns off during the pre-heat
+    -  Zero wait time between nozzle settle temperature and print start
     - Turn on the case light when the nozzle begins heating to start print
-    - Zero wait time between nozzle settle temperature and print start
     - Turn off the case light when the print finishes
 
 ## License
