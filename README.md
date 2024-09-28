@@ -28,7 +28,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
   - DO manually level the fully heated bed twice in succession before doing any other calibration for best results
 <a id="print_profiles"></a>
 ### What do you mean by _improved printer profiles_ in "Qidi X 4 Series Modified G-Code.zip"?
-  - Besides the G-Code bug fixes, the G-Code has been updated to:
+  - Besides minor G-Code bug fixes included in the Original version, the G-Code has been updated to:
     - Give the build plate sufficient time to heat soak
     - Turn on the case light when the nozzle begins heating to start print
     - Zero wait time between nozzle settle temperature and print start
