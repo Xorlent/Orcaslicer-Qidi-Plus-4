@@ -12,7 +12,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 3. Open the /resources/profiles folder
    - In MacOS, you need to "Show Package Contents" on the OrcaSlicer app
 4. Paste the contents of this repo into the /profiles folder
-   - No files should or will be overwritten in this process
+   - No files should or will be overwritten in this process, leaving all Orcaslicer release files as-is
    - The final result should be:
      - A file called, "Qidi X 4 Series.json" in the /profiles folder
      - A subfolder called, "Qidi X 4 Series" in the /profiles folder
