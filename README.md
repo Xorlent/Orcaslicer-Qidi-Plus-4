@@ -19,8 +19,8 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 7. Connect to your printer using the Wi-Fi icon next to the printer name and enter the IP address of your device
 
 ## Notes
-- Generic filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
-  - In my testing of the Qidi Generic PETG profile, I recommend slowing print speeds by 30% and increasing the flow ratio to .98 as a starting point  
+- Generic Qidi filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
+  - In my testing of their generic PETG profile, I recommend slowing all print speeds by 30% and increasing the flow ratio to .98 as a starting point  
 
 ## License
 QIDIStudio is licensed under the GNU Affero General Public License, version 3. QIDIStudio is based on BambuStudio by Bambu Lab.
