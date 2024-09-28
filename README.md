@@ -22,7 +22,10 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 
 ## General Notes and Observations
 ### Generic Qidi filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
-  - In my testing of their generic PETG profile, I recommend slowing all print speeds by 35-40% and increasing the flow ratio to .96 as a starting point
+- In my testing of their generic PETG profile, I recommend slowing all print speeds by 35-40% and increasing the flow ratio to .96 as a starting point
+### Bed leveling
+- The print bed on the unit I received is one of the truest original equipment plates I have measured, showing less than .22mm total runout and less than .15mm across all but one corner.
+  - DO manually level the fully heated bed twice in succession before doing any other calibration for best results
 <a id="print_profiles"></a>
 ### What do you mean by _improved printer profiles_ in "Qidi X 4 Series Modified G-Code.zip"?
   - Besides the G-Code bug fixes, the G-Code has been updated to:
@@ -30,9 +33,6 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
     - Turn on the case light when the nozzle begins heating to start print
     - Zero wait time between nozzle settle temperature and print start
     - Turn off the case light when the print finishes
-
-- The print bed on the unit I received is one of the truest original equipment plates I have measured, showing less than .22mm total runout and less than .15mm across all but one corner.
-  - DO manually level the fully heated bed twice in succession before doing any other calibration for best results
 
 ## License
 QIDIStudio is licensed under the GNU Affero General Public License, version 3. QIDIStudio is based on BambuStudio by Bambu Lab.
