@@ -1,5 +1,6 @@
 # OrcaSlicer Qidi X-Plus 4 Profiles
-OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles were adapted from the ones provided in the latest version of [QIDIStudio](https://github.com/QIDITECH/QIDIStudio), so should work fine.  These profiles have been tested on Qidi X 4 Plus firmware version 1.4.0 and OrcaSlicer 2.1.1.
+OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles were adapted from the ones provided in the latest version of [QIDIStudio](https://github.com/QIDITECH/QIDIStudio), so should work fine.  These profiles have been tested on Qidi X 4 Plus firmware version 1.4.0 and OrcaSlicer 2.1.1.  
+_The beta version of OrcaSlicer may already have profiles for the X Plus 4 (per Qidi Github)_
 > [!CAUTION]
 > USE AT YOUR OWN RISK
 
@@ -21,7 +22,6 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 7. Connect to your printer using the Wi-Fi icon next to the printer name and enter the IP address of your device
 
 ## General Notes and Observations
-### The beta version of OrcaSlicer may already have profiles for the X Plus 4 (per Qidi Github)
 ### Generic Qidi filament profiles are included for PLA, PLA Silk, PETG, ABS, and TPU95A
 - In my testing of their generic PETG profile, I recommend slowing all print speeds by 35-40% and increasing the flow ratio to .96 as a starting point
 ### Bed leveling
