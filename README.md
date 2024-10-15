@@ -3,6 +3,8 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 _Note: The beta version of OrcaSlicer may already have profiles for the X Plus 4 (per Qidi Github)_
 > [!CAUTION]
 > USE AT YOUR OWN RISK
+> [!IMPORTANT]
+> [Chamber Heater Fix Info and Instructions](https://github.com/Xorlent/Orcaslicer-Qidi-Plus-4/blob/main/Chamber-Heater-Fix.md)
 
 ## Installation
 1. Close OrcaSlicer
@@ -36,9 +38,6 @@ _Note: The beta version of OrcaSlicer may already have profiles for the X Plus 4
     -  Zero wait time between nozzle settle temperature and print start
     - Turn on the case light when the nozzle begins heating to start print
     - Turn off the case light when the print finishes
-
-## IMPORTANT Chamber Heater Fix
-[Chamber Heater Fix Info and Instructions](https://github.com/Xorlent/Orcaslicer-Qidi-Plus-4/blob/main/Chamber-Heater-Fix.md)
 
 ## License
 QIDIStudio is licensed under the GNU Affero General Public License, version 3. QIDIStudio is based on BambuStudio by Bambu Lab.
