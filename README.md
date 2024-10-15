@@ -3,6 +3,7 @@ OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles
 _Note: The beta version of OrcaSlicer may already have profiles for the X Plus 4 (per Qidi Github)_
 > [!CAUTION]
 > USE AT YOUR OWN RISK
+
 > [!IMPORTANT]
 > [Chamber Heater Fix Info and Instructions](https://github.com/Xorlent/Orcaslicer-Qidi-Plus-4/blob/main/Chamber-Heater-Fix.md)
 
