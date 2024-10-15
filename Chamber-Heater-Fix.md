@@ -1,5 +1,5 @@
 ## Purpose
-For excedingly large high-temp prints (greater than about 265mm), the chamber heater becomes obstructed by the print bed frame, potentially leading to thermal shutdown and subsequent print failure.  This code adds a macro to check the height of the bed and turns off the chamber heater before the obstruction prevents proper airflow.
+For excedingly tall high-temp prints (greater than about 265mm), the chamber heater becomes obstructed by the print bed frame, potentially leading to thermal shutdown and subsequent print failure.  This code adds a macro to check the height of the bed and turns off the chamber heater before the obstruction prevents proper airflow.
 
 ## Directions
 __Step 1.__ Add the following lines to the end of gcode_macro.cfg on the printer, found under the "Configuration" tab in the Fluidd interface:
