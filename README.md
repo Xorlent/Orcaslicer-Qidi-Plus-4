@@ -6,6 +6,7 @@ _Note: The beta version of OrcaSlicer may already have profiles for the X Plus 4
 
 > [!IMPORTANT]
 > [Chamber Heater Fix Info and Instructions](https://github.com/Xorlent/Orcaslicer-Qidi-Plus-4/blob/main/Chamber-Heater-Fix.md)
+> [Additional Fixes and Helpful Info from the Qidi-Community](https://github.com/qidi-community/Plus4-Wiki)
 
 ## Installation
 1. Close OrcaSlicer
