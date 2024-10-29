@@ -1,6 +1,6 @@
 # OrcaSlicer Qidi X-Plus 4 Profiles
 OrcaSlicer printer profiles for the brand new Qidi Plus 4 FDM printer.  Profiles were adapted from the ones provided in the latest version of [QIDIStudio](https://github.com/QIDITECH/QIDIStudio), so should work fine.  These profiles have been tested on Qidi X 4 Plus firmware version 1.4.0 and OrcaSlicer 2.1.1.  
-_Note: The beta version of OrcaSlicer may already have profiles for the X Plus 4 (per Qidi Github)_
+_Note: OrcaSlicer 2.2.0 has now been released and includes a printer profile for the Plus 4_
 > [!CAUTION]
 > USE AT YOUR OWN RISK
 
